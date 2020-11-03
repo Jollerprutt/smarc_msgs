@@ -66,6 +66,9 @@ add_message_files(
   FloatStamped.msg
   LatLonStamped.msg
   CTDFeedback.msg
+  Sidescan.msg
+  StampedSidescan.msg
+  PositionedSidescan.msg
 )
 
 ## Generate services in the 'srv' folder
